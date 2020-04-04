@@ -31,9 +31,11 @@
 }
 
 .icon-img{
-  background-image: image-url("IMG_0200.png");
+  background-image: image-url("IMG_0210.png");
   border-radius: 50%;
   width: 300px;
   height: 300px;
-  padding: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-image: none;
 }
